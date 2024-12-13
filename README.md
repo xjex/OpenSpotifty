@@ -2,6 +2,8 @@
 
 Open Spotify is a minimalistic Android launcher designed to convert old or spare phones into dedicated Spotify players. When set as the default home screen, this application automatically opens Spotify whenever the home button is pressed, simplifying the process of accessing your music.
 
+### Donwload the file openspotify-unsigned at ([Release](https://github.com/xjex/OpenSpotifty/releases/tag/v1.0.0))
+
 ## Features
 - Automatically launches Spotify upon pressing the home button.
 - Minimal footprint with no additional UI.
@@ -31,7 +33,7 @@ Open Spotify is a minimalistic Android launcher designed to convert old or spare
 This project is designed for music enthusiasts who want to repurpose old devices into dedicated Spotify players. It offers a simple and efficient way to access Spotify without the need for complex navigation or unnecessary apps.
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source.
 
 ---
 Feel free to contribute or customize the app for your personal needs. Happy listening!
